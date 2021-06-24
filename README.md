@@ -10,3 +10,5 @@ OpenCV의 face recognition은 https://www.youtube.com/watch?v=PmZ29Vta7Vc&t=2827
 4. 이미지 파일은 정사각형으로 얼굴부분만 잘라서 학습시킨다.
 
 5. conf 조절 하면서 얼굴인식 진행한다. 
+
+6. MTCNN에서 나온 좌표값으로 모자이크를 진행한다.
