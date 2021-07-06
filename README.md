@@ -12,3 +12,5 @@ OpenCV의 face recognition은 https://www.youtube.com/watch?v=PmZ29Vta7Vc&t=2827
 5. conf 조절 하면서 얼굴인식 진행한다. 
 
 6. MTCNN에서 나온 좌표값으로 모자이크를 진행한다.
+
+7. 모자이크는 바운딩 박스의 좌표값의 픽셀크기 조절로 진행한다.
