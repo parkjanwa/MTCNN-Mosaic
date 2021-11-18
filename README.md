@@ -1,5 +1,7 @@
 # MTCNN-Mosaic
 
+MTCNN으로 얼굴을 detect하고 OpenCV를 이용하여 얼굴인식 후 모자이크 처리를 하는 프로젝트 입니다.
+
 1. https://github.com/ipazc/mtcnn 여기서 git colon 한다.
 
 2. clone한 폴더에 haarcascade_frontalface_alt2.xml 둔다. ('./MTCNN/mtcnn') 폴더
